@@ -34,7 +34,7 @@ end
 find_missing([2,4,6,10])
 # 8
 ```
-![image](https://github.com/SivaLutalica/github-docs-example/assets/2844387/803700e5-7d87-466a-8d1d-0951b905dfb9)
+![image](https://github.com/SivaLutalica/github-docs-example/blob/main/assets/269402479-803700e5-7d87-466a-8d1d-0951b905dfb9.png)
 
 Please use also codeblocks for displaying Errors that appear in console.
 
@@ -72,6 +72,8 @@ You can use the following to create table
 | Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning: | 
 ```
 GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[5]</sup>](#references)
+
+![Pipe key example](assets/Grammarist-Article-Graphic-V2-58-1024x478.png)
 
 ## References
 
