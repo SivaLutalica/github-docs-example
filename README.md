@@ -131,6 +131,7 @@ GitHub extends the functionality of Markdown tables to provide more alignment an
 
 ![Pipe key example](assets/Grammarist-Article-Graphic-V2-58-1024x478.png)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 ## References
 
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[1]</sup>
